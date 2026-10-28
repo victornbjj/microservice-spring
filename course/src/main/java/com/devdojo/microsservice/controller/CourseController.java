@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.devdojo.microsservice.database.entity.CourseEntity;
+import com.devdojo.core.database.entity.CourseEntity;
 import com.devdojo.microsservice.service.CourseService;
 
 @RestController 

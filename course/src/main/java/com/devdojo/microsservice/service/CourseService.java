@@ -4,8 +4,10 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import com.devdojo.microsservice.database.entity.CourseEntity;
-import com.devdojo.microsservice.database.repository.CouseRepository;
+import com.devdojo.core.database.entity.CourseEntity;
+import com.devdojo.core.database.repository.CouseRepository;
+
+
 
 
 
